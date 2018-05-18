@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.example</groupId>
-  <artifactId>example-glue-spring5</artifactId>
+  <artifactId>example-websocket</artifactId>
   <version>1.1-SNAPSHOT</version>
 
   <properties>
@@ -20,6 +20,12 @@
     <dependency>
       <groupId>org.avaje.glue</groupId>
       <artifactId>glue-core</artifactId>
+      <version>1.2</version>
+    </dependency>
+
+    <dependency>
+      <groupId>org.avaje.glue</groupId>
+      <artifactId>glue-websocket</artifactId>
       <version>1.2</version>
     </dependency>
 

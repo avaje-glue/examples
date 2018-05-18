@@ -1,5 +1,3 @@
-message:
-  hello: Potatoes ${user.home}
 
 shutdown:
   minDelaySecs: 1
